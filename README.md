@@ -93,7 +93,7 @@ O código foi organizado em:
 
 ## 📸 Demonstração
 
-*(adicione aqui fotos ou vídeo do projeto depois 👀)*
+fotos
 
 ---
 
